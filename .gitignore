@@ -1,4 +1,4 @@
-# eclipse IDE
+# IDE
 .metadata
 bin/
 tmp/
@@ -10,6 +10,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.idea
 
 # Compiled class file
 *.class
